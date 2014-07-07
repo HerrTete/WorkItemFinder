@@ -1,0 +1,15 @@
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\MainWindow.baml
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\MainWindow.g.cs
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\App.g.cs
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder_MarkupCompile.cache
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder.g.resources
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder.Properties.Resources.resources
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder.csproj.GenerateResource.Cache
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\bin\Debug\WorkItemFinder.exe.config
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\bin\Debug\WorkItemFinder.exe
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\bin\Debug\WorkItemFinder.pdb
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder.csprojResolveAssemblyReference.cache
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder.exe
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\obj\x86\Debug\WorkItemFinder.pdb
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\bin\Debug\Microsoft.TeamFoundation.Client.dll
+c:\users\rtetmeyer\documents\visual studio 2010\Projects\WorkItemFinder\WorkItemFinder\bin\Debug\Microsoft.TeamFoundation.WorkItemTracking.Client.dll
